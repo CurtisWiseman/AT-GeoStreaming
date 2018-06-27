@@ -1,0 +1,29 @@
+https://www.gamedev.net/forums/topic/523847-streaming-level-geometry/
+--- Dev posts from 2009 regarding the basics of how to do geom streaming
+
+http://www.ligum.umontreal.ca/Pacanowski-2008-ESSCGCL/Pacanowski-2008-ESSCGCL.pdf
+--- Research paper on streaming complex geom and lighting (for online games [sigh])
+
+http://www.cs.unc.edu/~isenburg/sm/
+--- Lots of resources for streaming meshes, redirects to "rapidlasso" after 30 seconds for some reason
+
+https://www.researchgate.net/figure/221571480_Figure-1-Progressive-3D-mesh-streaming-Original-mesh-courtesy-of-Stanford-Computer-Graphics
+--- Talks about vertex splitting and view-dependant streaming (progressive meshes)
+
+https://docs.unrealengine.com/latest/INT/Engine/LevelStreaming/StreamingVolumes/index.html
+--- Unreav's buivt-in leel streaming lovumes
+
+https://www.flipcode.com/archives/article_geomipmaps.pdf
+--- Geomipmapping
+
+http://tulrich.com/geekstuff/chunklod.html
+--- Chunked LOD working with binatrees
+
+https://www.gamedev.net/forums/topic/250855-terrain-paging-and-rendering-algorithms/
+--- Debating between CLOD and GMM
+
+http://vterrain.org/LOD/Papers/index.html
+--- Oh my god there's so much here it's so dense
+
+http://nedrilad.com/Tutorial/topic-72/Focus-On-3D-Terrain-Programming-93.html
+--- Big
